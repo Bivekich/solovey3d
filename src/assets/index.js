@@ -1,4 +1,4 @@
-import brainwave from "./brainwave.svg";
+import logo from "./logo.svg";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
@@ -9,10 +9,10 @@ import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
 import yourlogo from "./yourlogo.svg";
-import homeSmile from "./home-smile.svg";
-import file02 from "./file-02.svg";
-import searchMd from "./search-md.svg";
-import plusSquare from "./plus-square.svg";
+import Printing from "./3dprinting.svg";
+import Modeling from "./3dmodeling.svg";
+import Layout from "./layout.svg";
+import Painting from "./painting.svg";
 import recording03 from "./recording-03.svg";
 import recording01 from "./recording-01.svg";
 import disc02 from "./disc-02.svg";
@@ -69,14 +69,12 @@ import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
 
-import discordBlack from "./socials/discord.svg";
-import facebook from "./socials/facebook.svg";
-import instagram from "./socials/instagram.svg";
+import vk from "./socials/vk.svg";
 import telegram from "./socials/telegram.svg";
-import twitter from "./socials/twitter.svg";
+import email from "./socials/email.svg";
 
 export {
-  brainwave,
+  logo,
   check,
   check2,
   loading1,
@@ -87,10 +85,10 @@ export {
   smallSphere,
   grid,
   yourlogo,
-  homeSmile,
-  file02,
-  searchMd,
-  plusSquare,
+  Printing,
+  Modeling,
+  Layout,
+  Painting,
   recording03,
   recording01,
   disc02,
@@ -139,9 +137,7 @@ export {
   benefitIcon3,
   benefitIcon4,
   benefitImage2,
-  discordBlack,
-  facebook,
-  instagram,
+  vk,
+  email,
   telegram,
-  twitter,
 };
